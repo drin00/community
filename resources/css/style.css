@@ -101,6 +101,7 @@ header nav div:hover{
 }
 .navpop a{
   border-bottom: 1px solid dimgray;
+  border-radius: 25%;
   background-color: ;
   color: black;
   opacity: .9;
