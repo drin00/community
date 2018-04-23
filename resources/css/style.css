@@ -85,6 +85,7 @@ header nav div:hover a{
 
 header nav div:hover{
   background-color: gold;
+  cursor: pointer;
 }
 .blogdd a{
   display: block;
@@ -112,7 +113,9 @@ header nav div:hover{
   color: black;
 }
 .navpop a:hover{
-  background-color: gray;
+  background-color: black;
+  color: white;
+  opacity: 0.8;
 }
 
 .sec1{
