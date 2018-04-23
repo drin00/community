@@ -52,7 +52,7 @@ main{
 
 header nav{
   display: flex;
-  width: 35%;
+  width: 45%;
   height: 100%;
   justify-content: space-around;
 }
@@ -61,12 +61,13 @@ header nav a{
   text-align: center;
   color: white;
   text-decoration: none;
-  align-self: flex-end;
+  align-self: center;
   background-color: black;
   border: 1px solid gold;
   border-radius: 10%;
   padding: 2%;
-  width: 25%;
+  min-width: 15%;
+  width: 15%;
   margin: 1%;
 }
 
