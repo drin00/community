@@ -63,7 +63,7 @@ header nav div{
   color: white;
   align-self: center;
   background-color: black;
-  border: 1px solid gold;
+  border: 2px solid gold;
   border-radius: 10%;
   padding: 2%;
   min-width: 20%;
@@ -98,11 +98,11 @@ header nav div:hover{
   display: block;
   position: absolute;
   top: 60%;
-  left: 14%;
+  left: 13.8%;
 }
 .navpop a{
   border-bottom: 1px solid dimgray;
-  border-radius: 25%;
+  border-radius: 50%;
   background-color: ;
   color: black;
   opacity: .9;
