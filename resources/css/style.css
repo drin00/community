@@ -72,6 +72,7 @@ header nav div{
 
 nav div a{
     text-decoration: none;
+    color: white;
 }
 
 header nav div a:visited{
